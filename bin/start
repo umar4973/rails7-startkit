@@ -7,6 +7,7 @@ rails_db_migrate
 
 puma_start
 sidekiq_start
+tailwind_start
 
 chewy_index
 

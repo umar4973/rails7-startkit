@@ -3,5 +3,6 @@ require_relative "./helpers.rb"
 
 puma_stop
 sidekiq_stop
+tailwind_stop
 
 containers_information

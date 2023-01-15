@@ -40,6 +40,9 @@ gem "sanitize", "6.0.0"
 # Pagination
 gem "kaminari", "1.2.2"
 
+# Tailwind CSS framework
+gem "tailwindcss-rails", "2.0.21"
+
 group :development, :test do
   # fake data for development and testing
   gem "faker", "3.1.0"
